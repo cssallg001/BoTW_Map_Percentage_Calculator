@@ -8,7 +8,7 @@ After collecting all korok seeds, shrines, and defeating all Diving Beasts my ma
 
 The categories that contribute to the percentage meter are as follows:   
 • Divine Beasts:		  4 total	  		0.0825% each 	 	0.33% total  
-• Shrines	120 total:  		0.0825% each		9.9% total  
+• Shrines:  	120 total:  		0.0825% each		9.9% total  
 • Map Locations:  		188 total		0.0825% each		15.51% total  
 • Korok Seeds:  		900 total		0.0825% each		74.25% total  
 
