@@ -7,10 +7,10 @@ A calculator I wrote for figuring out the remaining collectibles that contribute
 After collecting all korok seeds, shrines, and defeating all Diving Beasts my map was stuck at 97.63% for the longest time so after much frustration I figured I'd design a calculator to help me figure out what was left. After doing some research online, I managed to find the percentage weights for all of the different categories that contribute to the total percentage which I was then able to use to figure out how many locations were left.  
 
 The categories that contribute to the percentage meter are as follows:   
-• Divine Beasts		4 total	  		0.0825% each 	 	0.33% total  
-• Shrines	120 total		0.0825% each		9.9% total  
-• Map Locations		188 total		0.0825% each		15.51% total  
-• Korok Seeds		900 total		0.0825% each		74.25% total  
+• Divine Beasts:		  4 total	  		0.0825% each 	 	0.33% total  
+• Shrines	120 total:  		0.0825% each		9.9% total  
+• Map Locations:  		188 total		0.0825% each		15.51% total  
+• Korok Seeds:  		900 total		0.0825% each		74.25% total  
 
 
 I first wanted to make sure the logic of my code worked first. I'll eventually get around to the To Do list below, though I'm not sure when per se.
