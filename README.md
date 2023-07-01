@@ -16,6 +16,7 @@ The categories that contribute to the percentage meter are as follows:
 I first wanted to make sure the logic of my code worked first. I'll eventually get around to the To Do list below, though I'm not sure when per se.
 To do:
 • Interactive GUI  
+• Make official release  
 • Making a version for Tears of the Kingdom (More research needs to be done on the percentage weights for each category)  
 • Further Bug Testing/Fixing?  
 • Clean-up/optimize code?  
