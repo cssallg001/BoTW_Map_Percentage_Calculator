@@ -13,7 +13,7 @@ The categories that contribute to the percentage meter are as follows:
 • Korok Seeds:  		900 total		0.0825% each		74.25% total  
 
 
-I first wanted to make sure the logic of my code worked first. I'll eventually get around to the To Do list below, though I'm not sure when per se.
+I'll eventually get around to the To Do list below, though I'm not sure when per se.
 To do:
 • Interactive GUI  
 • Make official release  
