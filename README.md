@@ -14,7 +14,7 @@ The categories that contribute to the percentage meter are as follows:
 
 
 I'll eventually get around to the To Do list below, though I'm not sure when per se.  
-To do:
+To do:  
 • Interactive GUI  
 • Make official release  
 • Making a version for Tears of the Kingdom (More research needs to be done on the percentage weights for each category)  
