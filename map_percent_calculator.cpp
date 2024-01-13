@@ -4,6 +4,7 @@
 #include <iostream>
 #include <iomanip> 
 #include <cmath>
+// Demonstrating Commit #1
 
 using namespace std;
 
